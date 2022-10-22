@@ -1,0 +1,1 @@
+This is basically just the game from Tron. I'd say that the game is best out of three, but once someone loses 3 points are added so when you die the game will be over and unless you re-open it, there will be no redo's. I used Snakes code (obviously) as a base for everything.
